@@ -26,7 +26,7 @@ Whilst in the directory install package globally using
 
 after that  cd to your desktop and run
 
-> create-rezact-app <dirname>
+> create-rezact-app <dir_name>
 
 that's all. 
 
